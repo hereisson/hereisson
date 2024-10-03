@@ -1,4 +1,10 @@
-## Hi there 👋
+## HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋 HI 👋
+![wordart (1)](https://github.com/user-attachments/assets/97272160-116c-4ab7-bd93-13cf1b143722)
+
+# I'm a first year Computer Science Major at UCI!  
+
+
+![Visitor Count](https://profile-counter.glitch.me/hereisson/count.svg) people have visited!
 
 <!--
 **hereisson/hereisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
